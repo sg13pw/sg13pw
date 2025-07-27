@@ -5,7 +5,7 @@ Due opacity level of body and div's included into the full motion video resticte
 
 Is there are few things that made your page more effective, in my repository you may also review little html code that remarks as cover video background/
 
-В связке кода использования opacity level ( body { opacity: 0.6 ;} ), ( body { background-color: red;} and filter: invert(100%); to background video рождаются ключи для подстановки и расшерения стандартных функции css 3, 5 "filter" переменных/
+В связке кода использования opacity level ( body { opacity: 0.6 ;} ), ( body { background-color: red;} and filter: invert(100%); to background video рождаются ключи для подстановки и расширения стандартных функции css 3, 5 "filter" переменных/
 
 Thanks for watching,
 Rosko
